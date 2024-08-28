@@ -13,3 +13,7 @@
 -> Use **Enter** to accept the default install location, use **CTRL+C** to cancel the installation, or enter another file path to specify an alternate installation directory.
 
 -> If you **accept the default install location**, the installer displays PREFIX=/home/user/miniforge3 and continues the installation. It may take a few minutes to complete.
+
+## Activate miniforge 
+
+     source /home/pooja/miniforge3/bin/activate
