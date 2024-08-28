@@ -1,7 +1,7 @@
 # Nextflow_Pipelines
 Pipeline development using nextflow
 
-## Start with by creating a conda environment for nextflow
+## Start by creating a conda environment for nextflow
 
     conda create --name bioinfo_pipelines
 
