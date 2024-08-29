@@ -17,3 +17,20 @@
 ## Activate miniforge 
 
      source /home/pooja/miniforge3/bin/activate
+
+## Create a new mamba environment
+
+     mamba create -n bioinfo_pipelines
+
+## Init mamba 
+
+    mamba init
+
+## Activate the new mamba enviroment
+
+    mamba activate bioinfo_pipelines
+
+## Install Nextflow in the new mamba enviroment 
+
+     mamba install -c bioconda nf-core
+     
